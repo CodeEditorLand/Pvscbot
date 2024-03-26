@@ -2,7 +2,7 @@
 
 ## Security
 
-Microsoft takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations, which include [Microsoft](HTTPS://GitHub.Com/Microsoft), [Azure](HTTPS://GitHub.Com/Azure), [DotNet](HTTPS://GitHub.Com/dotnet), [AspNet](HTTPS://GitHub.Com/aspnet), [Xamarin](HTTPS://GitHub.Com/xamarin), and [our GitHub organizations](https://opensource.microsoft.com/).
+Microsoft takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations, which include [Microsoft](https://GitHub.Com/Microsoft), [Azure](https://GitHub.Com/Azure), [DotNet](https://GitHub.Com/dotnet), [AspNet](https://GitHub.Com/aspnet), [Xamarin](https://GitHub.Com/xamarin), and [our GitHub organizations](https://opensource.microsoft.com/).
 
 If you believe you have found a security vulnerability in any Microsoft-owned repository that meets Microsoft's [Microsoft's definition of a security vulnerability](https://docs.microsoft.com/en-us/previous-versions/tn-archive/cc751383(v=technet.10)) of a security vulnerability, please report it to us as described below.
 
