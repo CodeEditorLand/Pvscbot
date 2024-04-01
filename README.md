@@ -1,9 +1,9 @@
-[![CI](https://GitHub.Com/microsoft/pvscbot/workflows/CI/badge.svg?branch=master&event=push "CI status badge")](https://GitHub.Com/microsoft/pvscbot/actions?query=branch%3Amaster+event%3Apush+workflow%3ACI)
+[![CI](https://github.com/microsoft/pvscbot/workflows/CI/badge.svg?branch=master&event=push "CI status badge")](https://github.com/microsoft/pvscbot/actions?query=branch%3Amaster+event%3Apush+workflow%3ACI)
 
 # Purpose
 
 This bot exists to automate the development process/workflow for
-https://GitHub.Com/microsoft/vscode-python. It also acts as a simple demo of
+https://github.com/microsoft/vscode-python. It also acts as a simple demo of
 a GitHub bot running on Azure.
 
 This bot is what is known as an OAuth app and is not a GitHub app. The
