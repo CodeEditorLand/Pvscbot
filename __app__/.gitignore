@@ -28,10 +28,8 @@ dist
 .python_packages/
 
 # Python Environments
-.env
 .venv
 env/
-venv/
 ENV/
 env.bak/
 venv.bak/
